@@ -1,0 +1,103 @@
+#Titulo {
+    color:darkolivegreen;
+    font-size: 40px;
+}
+
+body {
+    background-color:tan;
+}
+
+
+#Titulo3 {
+    color: darkslategray;
+    font-size: 22px;
+}
+
+* {
+    text-align: center;
+}
+
+header {
+    background-image : url("IMG/Imagen1.webp");
+    height: 600;
+
+}
+
+p.Texto {
+    font-size: 22px;
+    color: seagreen;
+}
+
+div h2 {
+    color: darkslateblue;
+    font-size: 22px;
+}
+
+div a {
+    color: burlywood;
+    font-size: 18px;
+}
+
+div p {
+    color: darkslategray;
+    font-size: 18px;
+}
+
+#Menu ol {
+    list-style: none;
+    margin: 0;
+    padding: 0%;
+}
+
+#Menu ol li {
+    float: left;
+}
+
+#Menu a{
+    color: bisque;
+    text-decoration: none;
+    display: block;
+    padding: 12px 65.5px;
+    font-size: 18px;
+}
+
+#Menu{
+    background-color: black;
+    width: 1900px;
+    height: 52px;
+}
+
+#Menu a:hover{
+    color: darkgreen;
+    background-color: darkslategray;
+}
+
+footer{
+    background-color: dimgray;
+    height: 170px;
+}
+
+footer a:hover{
+    color: darkcyan;
+}
+
+section.formulario{
+    background-color: darkslategray;
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    color: bisque;
+    font-size: 18px;
+}
+
+.campos{
+    background-color: burlywood;
+    padding: 10px;
+    width: 300px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px slategrey ;
+    
+}
